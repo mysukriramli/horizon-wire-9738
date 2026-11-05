@@ -1,0 +1,15 @@
+{
+  "name": "horizon-wire-9738",
+  "version": "1.0.0",
+  "description": "Deterministic real-time terrain visibility, viewshed, horizon exposure, and elevation consequence intelligence microservice for autonomous agents.",
+  "tools": [
+    {
+      "name": "service_status",
+      "description": "Get current status and computations from this autonomous service",
+      "inputSchema": {
+        "type": "object",
+        "properties": {}
+      }
+    }
+  ]
+}
